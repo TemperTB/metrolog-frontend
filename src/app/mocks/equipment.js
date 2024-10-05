@@ -1,6 +1,8 @@
 const EQUIPMENT = [
   {
     id: 1,
+    status: "work",
+    napravlenie: "ТВС",
     podrazdelenie: "ПТВС-1",
     preo: "ПрЭО МН",
     vladelec: "АО Газпромнефть-Ноябрьскнефтегаз",
@@ -26,6 +28,8 @@ const EQUIPMENT = [
   {
     id: 2,
     podrazdelenie: "ПТВС-2",
+    status: "work",
+    napravlenie: "Генерация",
     preo: "ПрЭО ХН",
     vladelec: "АО Газпромнефть-Ноябрьскнефтегаз",
     mestorozhdenie: "ДНС Карамовское",
