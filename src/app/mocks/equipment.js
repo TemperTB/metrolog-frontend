@@ -24,6 +24,8 @@ const EQUIPMENT = [
     prevDate: "2024-01-01T00:00:00.000Z",
     nextDate: "2026-01-01T00:00:00.000Z",
     sertificate: "С-ВКА/19-09-2024/371467822",
+    sertificate_link:
+      "https://fgis.gost.ru/fundmetrology/cm/results/1-371467822",
   },
   {
     id: 2,
@@ -50,6 +52,8 @@ const EQUIPMENT = [
     prevDate: "2021-04-15T00:00:00.000Z",
     nextDate: "2023-04-15T00:00:00.000Z",
     sertificate: "С-ВКА/19-09-2024/371467809",
+    sertificate_link:
+      "https://fgis.gost.ru/fundmetrology/cm/results/1-371467809",
   },
 ];
 
